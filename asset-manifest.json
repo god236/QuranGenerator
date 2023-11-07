@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.a50659f8.css",
-    "main.js": "./static/js/main.7eab5293.js",
+    "main.js": "./static/js/main.6cc4b06a.js",
     "static/media/nabi.ttf": "./static/media/nabi.8a6aabd5e4f47598514a.ttf",
     "static/media/title.png": "./static/media/title.8bfae650db924cfcd1e5.png",
     "index.html": "./index.html",
     "main.a50659f8.css.map": "./static/css/main.a50659f8.css.map",
-    "main.7eab5293.js.map": "./static/js/main.7eab5293.js.map"
+    "main.6cc4b06a.js.map": "./static/js/main.6cc4b06a.js.map"
   },
   "entrypoints": [
     "static/css/main.a50659f8.css",
-    "static/js/main.7eab5293.js"
+    "static/js/main.6cc4b06a.js"
   ]
 }
